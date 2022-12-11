@@ -1,0 +1,5 @@
+Color Codes
+Purple 
+#A05EB5
+Black 
+#63666A
